@@ -7,7 +7,7 @@
     "Boilerplate"
   ],
   "website": "http://www.wordpress.org",
-  "repository": "https://github.com/wordpress/wordpress",
+  "repository": "https://github.com/hawaiianchimp/wordpress",
   "logo": "https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png",
   "success_url": "/index.php",
   "addons": [
