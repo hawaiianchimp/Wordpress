@@ -1,0 +1,16 @@
+{
+  "name": "Wordpress",
+  "description": "Boilerplate for Wordpress",
+  "keywords": [
+    "Wordpress",
+    "PHP",
+    "Boilerplate"
+  ],
+  "website": "http://www.wordpress.org",
+  "repository": "https://github.com/wordpress/wordpress",
+  "logo": "https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png",
+  "success_url": "/index.php",
+  "addons": [
+    "cleardb"
+  ]
+}
